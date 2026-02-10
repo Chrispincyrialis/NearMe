@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NearMe</string>
+    <string name="invalid_pin">Invalid PIN. Use demo PIN 1234.</string>
+    <string name="invalid_hash">NFC payload integrity check failed.</string>
+    <string name="tag_detected">Tag detected: %1$s</string>
+    <string name="nfc_ready_message">Prepared NDEF message with %1$d record(s). Tap another device/tag.</string>
+    <string name="transaction_ok">Transaction successful: $%1$.2f to %2$s</string>
+    <string name="transaction_error">Transaction failed: %1$s</string>
+</resources>
